@@ -1,10 +1,5 @@
 # survey-gen
 Generate dynamic surveys from easy to use sources
-# survey-gen
-
-## Description
-
-Generate dynamic surveys from easy to use sources.
 
 ## Getting Started
 
