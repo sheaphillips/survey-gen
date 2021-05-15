@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: sheaphillips/survey-gen
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
   owner: sheaphillips
