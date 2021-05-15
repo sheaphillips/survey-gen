@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: survey-gen
+  annotations:
+    github.com/project-slug: sheaphillips/survey-gen
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sheaphillips
